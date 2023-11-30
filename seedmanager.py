@@ -2,6 +2,7 @@
 #
 # seedmanager.py: a script to convert seed phrases into shards and back
 #
+# pip install configargparse bip39 pycryptodome bitstring
 import configargparse
 import bip39
 import sys
